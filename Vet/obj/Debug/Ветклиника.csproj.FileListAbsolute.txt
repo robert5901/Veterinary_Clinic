@@ -1,0 +1,76 @@
+C:\Users\rober\Desktop\Ветклиника\Ветклиника\bin\Debug\Ветклиника.exe.config
+C:\Users\rober\Desktop\Ветклиника\Ветклиника\bin\Debug\Ветклиника.exe
+C:\Users\rober\Desktop\Ветклиника\Ветклиника\bin\Debug\Ветклиника.pdb
+C:\Users\rober\Desktop\Ветклиника\Ветклиника\obj\Debug\Ветклиника.csprojAssemblyReference.cache
+C:\Users\rober\Desktop\Ветклиника\Ветклиника\obj\Debug\Ветклиника.Form1.resources
+C:\Users\rober\Desktop\Ветклиника\Ветклиника\obj\Debug\Ветклиника.Properties.Resources.resources
+C:\Users\rober\Desktop\Ветклиника\Ветклиника\obj\Debug\Ветклиника.csproj.GenerateResource.cache
+C:\Users\rober\Desktop\Ветклиника\Ветклиника\obj\Debug\Ветклиника.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\Ветклиника\Ветклиника\obj\Debug\Ветклиника.exe
+C:\Users\rober\Desktop\Ветклиника\Ветклиника\obj\Debug\Ветклиника.pdb
+C:\Users\rober\Desktop\Ветклиника\Ветклиника\obj\Debug\Ветклиника.Form2.resources
+C:\Users\rober\Desktop\Ветклиника\Ветклиника\obj\Debug\Ветклиника.Form3.resources
+C:\Users\rober\Desktop\Ветклиника\Ветклиника\obj\Debug\Ветклиника.Form4.resources
+C:\Users\rober\Desktop\Ветклиника\Ветклиника\obj\Debug\Ветклиника.Form5.resources
+C:\Program Files\Ветклиника\Ветклиника\bin\Debug\Database.mdf
+C:\Program Files\Ветклиника\Ветклиника\bin\Debug\Database_log.ldf
+C:\Program Files\Ветклиника\Ветклиника\bin\Debug\Ветклиника.exe.config
+C:\Program Files\Ветклиника\Ветклиника\bin\Debug\Ветклиника.exe
+C:\Program Files\Ветклиника\Ветклиника\bin\Debug\Ветклиника.pdb
+C:\Program Files\Ветклиника\Ветклиника\obj\Debug\Ветклиника.csprojAssemblyReference.cache
+C:\Program Files\Ветклиника\Ветклиника\obj\Debug\Ветклиника.Form1.resources
+C:\Program Files\Ветклиника\Ветклиника\obj\Debug\Ветклиника.Form2.resources
+C:\Program Files\Ветклиника\Ветклиника\obj\Debug\Ветклиника.Form3.resources
+C:\Program Files\Ветклиника\Ветклиника\obj\Debug\Ветклиника.Form4.resources
+C:\Program Files\Ветклиника\Ветклиника\obj\Debug\Ветклиника.Form5.resources
+C:\Program Files\Ветклиника\Ветклиника\obj\Debug\Ветклиника.Form6.resources
+C:\Program Files\Ветклиника\Ветклиника\obj\Debug\Ветклиника.Form7.resources
+C:\Program Files\Ветклиника\Ветклиника\obj\Debug\Ветклиника.Properties.Resources.resources
+C:\Program Files\Ветклиника\Ветклиника\obj\Debug\Ветклиника.csproj.GenerateResource.cache
+C:\Program Files\Ветклиника\Ветклиника\obj\Debug\Ветклиника.csproj.CoreCompileInputs.cache
+C:\Program Files\Ветклиника\Ветклиника\obj\Debug\Ветклиника.exe
+C:\Program Files\Ветклиника\Ветклиника\obj\Debug\Ветклиника.pdb
+C:\Program Files\Ветклиника\Ветклиника\obj\Debug\Ветклиника.Form8.resources
+C:\Program Files\Ветклиника\Ветклиника\obj\Debug\Ветклиника.Form9.resources
+F:\Ветклиника\Ветклиника\bin\Debug\Database.mdf
+F:\Ветклиника\Ветклиника\bin\Debug\Database_log.ldf
+F:\Ветклиника\Ветклиника\bin\Debug\Ветклиника.exe.config
+F:\Ветклиника\Ветклиника\bin\Debug\Ветклиника.exe
+F:\Ветклиника\Ветклиника\bin\Debug\Ветклиника.pdb
+F:\Ветклиника\Ветклиника\obj\Debug\Ветклиника.csprojAssemblyReference.cache
+F:\Ветклиника\Ветклиника\obj\Debug\Ветклиника.Form1.resources
+F:\Ветклиника\Ветклиника\obj\Debug\Ветклиника.Form2.resources
+F:\Ветклиника\Ветклиника\obj\Debug\Ветклиника.Form3.resources
+F:\Ветклиника\Ветклиника\obj\Debug\Ветклиника.Form4.resources
+F:\Ветклиника\Ветклиника\obj\Debug\Ветклиника.Form5.resources
+F:\Ветклиника\Ветклиника\obj\Debug\Ветклиника.Form6.resources
+F:\Ветклиника\Ветклиника\obj\Debug\Ветклиника.Form7.resources
+F:\Ветклиника\Ветклиника\obj\Debug\Ветклиника.Form8.resources
+F:\Ветклиника\Ветклиника\obj\Debug\Ветклиника.Form9.resources
+F:\Ветклиника\Ветклиника\obj\Debug\Ветклиника.Properties.Resources.resources
+F:\Ветклиника\Ветклиника\obj\Debug\Ветклиника.csproj.GenerateResource.cache
+F:\Ветклиника\Ветклиника\obj\Debug\Ветклиника.csproj.CoreCompileInputs.cache
+F:\Ветклиника\Ветклиника\obj\Debug\Ветклиника.exe
+F:\Ветклиника\Ветклиника\obj\Debug\Ветклиника.pdb
+F:\Ветклиника\Ветклиника\obj\Debug\Ветклиника.Form10.resources
+C:\Users\rober\Desktop\Проекты\Ветклиника\Ветклиника\bin\Debug\Database.mdf
+C:\Users\rober\Desktop\Проекты\Ветклиника\Ветклиника\bin\Debug\Database_log.ldf
+C:\Users\rober\Desktop\Проекты\Ветклиника\Ветклиника\bin\Debug\Ветклиника.exe.config
+C:\Users\rober\Desktop\Проекты\Ветклиника\Ветклиника\bin\Debug\Ветклиника.exe
+C:\Users\rober\Desktop\Проекты\Ветклиника\Ветклиника\bin\Debug\Ветклиника.pdb
+C:\Users\rober\Desktop\Проекты\Ветклиника\Ветклиника\obj\Debug\Ветклиника.csprojAssemblyReference.cache
+C:\Users\rober\Desktop\Проекты\Ветклиника\Ветклиника\obj\Debug\Ветклиника.Form1.resources
+C:\Users\rober\Desktop\Проекты\Ветклиника\Ветклиника\obj\Debug\Ветклиника.Form10.resources
+C:\Users\rober\Desktop\Проекты\Ветклиника\Ветклиника\obj\Debug\Ветклиника.Form2.resources
+C:\Users\rober\Desktop\Проекты\Ветклиника\Ветклиника\obj\Debug\Ветклиника.Form3.resources
+C:\Users\rober\Desktop\Проекты\Ветклиника\Ветклиника\obj\Debug\Ветклиника.Form4.resources
+C:\Users\rober\Desktop\Проекты\Ветклиника\Ветклиника\obj\Debug\Ветклиника.Form5.resources
+C:\Users\rober\Desktop\Проекты\Ветклиника\Ветклиника\obj\Debug\Ветклиника.Form6.resources
+C:\Users\rober\Desktop\Проекты\Ветклиника\Ветклиника\obj\Debug\Ветклиника.Form7.resources
+C:\Users\rober\Desktop\Проекты\Ветклиника\Ветклиника\obj\Debug\Ветклиника.Form8.resources
+C:\Users\rober\Desktop\Проекты\Ветклиника\Ветклиника\obj\Debug\Ветклиника.Form9.resources
+C:\Users\rober\Desktop\Проекты\Ветклиника\Ветклиника\obj\Debug\Ветклиника.Properties.Resources.resources
+C:\Users\rober\Desktop\Проекты\Ветклиника\Ветклиника\obj\Debug\Ветклиника.csproj.GenerateResource.cache
+C:\Users\rober\Desktop\Проекты\Ветклиника\Ветклиника\obj\Debug\Ветклиника.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\Проекты\Ветклиника\Ветклиника\obj\Debug\Ветклиника.exe
+C:\Users\rober\Desktop\Проекты\Ветклиника\Ветклиника\obj\Debug\Ветклиника.pdb
